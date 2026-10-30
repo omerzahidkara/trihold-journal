@@ -24,6 +24,16 @@ The project's design is not about finding one impressive unit and using it every
 
 **This is a development journal—not a released game, a download page, or a public copy of the private source-code repository.**
 
+## Gameplay in Action — Work-in-Progress Footage
+
+[![Capturing Enemy Territory — recorded prototype gameplay](media/previews/05-scout-car-outpost-raid.gif)](media/videos/05-scout-car-outpost-raid.mp4)
+
+[Watch the full video (MP4)](media/videos/05-scout-car-outpost-raid.mp4) · **Work in progress — actual Unity prototype gameplay**
+
+Scout Car transport delivers an infantry-led capture that changes territorial control and the associated Mine economy. This is actual Unity prototype gameplay, with unfinished art and animation, rather than a trailer for a finished game.
+
+[**Explore all five gameplay recordings →**](media/README.md)
+
 ## The decisions at the heart of a match
 
 | Your choice | What makes it interesting |

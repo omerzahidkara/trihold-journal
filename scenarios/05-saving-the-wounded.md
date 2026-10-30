@@ -2,6 +2,14 @@
 
 **Focus:** casualties, transport risk, recovery and force preservation.
 
+## Recorded Prototype Gameplay
+
+[![Rescuing the Wounded — recorded prototype gameplay](../media/previews/03-wounded-recovery.gif)](../media/videos/03-wounded-recovery.mp4)
+
+[Watch the full video (MP4)](../media/videos/03-wounded-recovery.mp4) · **Work in progress — actual Unity prototype gameplay**
+
+An infantry engagement leaves a friendly soldier wounded; an arriving Scout Car automatically collects the eligible casualty. Transport to an Infirmary, treatment and recovery to a healthy state complete the rescue chain, illustrating what force preservation can save and what it asks of a transport.
+
 ## The situation
 
 A battle ends with wounded soldiers still on the field. A nearby Scout Car could evacuate them toward an Infirmary, but the enemy may return. The same car is needed to defend an Outpost and transport a healthy squad.

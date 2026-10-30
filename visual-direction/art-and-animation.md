@@ -8,6 +8,6 @@ The final 3D art, animations, VFX, sound and cohesive presentation are **not fin
 
 I would especially welcome conversations with people interested in **low-poly 3D modeling, environment design, animation, VFX, technical art and strategy-game readability**.
 
-Authentic screenshots or clips can be added later with clear labels distinguishing real gameplay from work-in-progress material and concept art.
+[Five authentic Unity prototype gameplay recordings are now available](../media/README.md), showing construction, combat, rescue and capture. Some footage is accelerated or trimmed. The recordings document playable mechanics; the art, animations and VFX are still incomplete.
 
-[Collaboration](../collaboration/work-with-me.md) · [Media policy](../media/README.md)
+[Collaboration](../collaboration/work-with-me.md) · [Gameplay gallery](../media/README.md)

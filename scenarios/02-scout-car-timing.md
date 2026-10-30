@@ -2,6 +2,14 @@
 
 **Focus:** military timing, vehicle limits, Recon hunting and the economic cost of mobilization.
 
+## Recorded Prototype Gameplay
+
+[![Hunting Enemy Recon — recorded prototype gameplay](../media/previews/02-scout-hunts-recon.gif)](../media/videos/02-scout-hunts-recon.mp4)
+
+[Watch the full video (MP4)](../media/videos/02-scout-hunts-recon.mp4) · **Work in progress — actual Unity prototype gameplay**
+
+A Scout Car hunts and eliminates exposed enemy infantry in Recon mode. The recording shows the risk of sending Recon into the open during the early Scout Car window, without establishing that Recon is economically useless or that every encounter ends this way.
+
 ## The situation
 
 Two players have expanded into the map. Each knows Scout Cars are unusually important in Base 1. Infantry have a very hard time destroying a car, while Outposts offer stronger firepower but may be captured by an infantry squad.

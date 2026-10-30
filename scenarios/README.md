@@ -4,6 +4,8 @@ These scenario notes explore how the game's systems may interact. They are not g
 
 Each one distinguishes implemented mechanisms from design expectations and actual test observations.
 
+[**Watch the five authentic prototype gameplay demonstrations →**](../media/README.md)
+
 ## Start here
 
 | Scenario | Central question |

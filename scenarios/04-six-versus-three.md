@@ -2,6 +2,14 @@
 
 **Focus:** stamina, combat readiness, Sergeant traits and a real test observation.
 
+## Recorded Prototype Gameplay
+
+[![Leadership Against the Odds — recorded prototype gameplay](../media/previews/04-sergeant-defensive-stand.gif)](../media/videos/04-sergeant-defensive-stand.mp4)
+
+[Watch the full video (MP4)](../media/videos/04-sergeant-defensive-stand.mp4) · **Work in progress — actual Unity prototype gameplay**
+
+In this recording, three blue defenders led by a trait-bearing Sergeant defeat six red attackers. Leadership, defensive stance, fatigue and combat mechanics interact here; this observed victory does not isolate one decisive modifier or guarantee a repeatable outcome.
+
 ## The situation
 
 Six attacking infantry are tired after running. Their opponents are a defending group of three: a Sergeant with an **Advanced Guns** trait and two infantry.

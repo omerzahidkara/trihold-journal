@@ -2,6 +2,14 @@
 
 **Focus:** economy, early production and contested map information.
 
+## Recorded Prototype Gameplay
+
+[![Building the Economy — recorded prototype gameplay](../media/previews/01-mine-construction.gif)](../media/videos/01-mine-construction.mp4)
+
+[Watch the full video (MP4)](../media/videos/01-mine-construction.mp4) · **Work in progress — actual Unity prototype gameplay**
+
+Two infantry approach a Mine site, satisfy its worker requirement and construct the Mine. The final sequence shows a blocked attempt to place an Outpost immediately beside this Mine in this situation; it does not establish a universal ban on Outposts near Mines.
+
 ## The situation
 
 The home Base has two nearby Level 2 Mine sites. Mines require two eligible infantry workers to construct. A player can form a Sergeant-led squad, build the opening Mines, place an Outpost farther forward and reach another Mine site. A standard opening of this general kind is estimated by the developer at roughly five minutes; it is not a recorded speed benchmark.

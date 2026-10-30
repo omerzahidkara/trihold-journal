@@ -2,6 +2,16 @@
 
 **Focus:** transport, Outpost defenses, infantry capture and counterattacks.
 
+## Recorded Prototype Gameplay
+
+[![Capturing Enemy Territory — recorded prototype gameplay](../media/previews/05-scout-car-outpost-raid.gif)](../media/videos/05-scout-car-outpost-raid.mp4)
+
+[Watch the full video (MP4)](../media/videos/05-scout-car-outpost-raid.mp4) · **Work in progress — actual Unity prototype gameplay**
+
+Infantry board a Scout Car, approach an enemy Outpost, disembark near its close-range defensive blind spot and capture it with an eligible squad. In this recorded scenario, the associated Mine stops paying the red player for 60 seconds before transferring to blue, connecting the raid to territorial and income consequences.
+
+At Base 1, capturing an Outpost is a practical objective; directly destroying one is generally prohibitively expensive with early forces.
+
 ## The situation
 
 A Scout Car approaches an enemy Outpost with a formed Sergeant-led squad aboard. It can deliver the infantry toward a less-protected part of the position, but the Outpost's machine gun threatens the vehicle. Leaving it within firing range for too long may result in a major loss.
